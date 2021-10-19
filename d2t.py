@@ -1,6 +1,6 @@
 # coding=utf-8
 
-#using this may couse system error.
+#using this may cause system error.
 #dont convert it into exe.
 #binded with bugs
 #contact gyan prakash or mail me at zbugs.thepsychocoder@gmail.com.
